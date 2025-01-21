@@ -1,1 +1,1 @@
-{"version":"1.5.2","news":"[/] Fixed ERROR add music, [+] Added more than 1 music can be added "}
+{"version":"1.5.2","news":"[/] Fixed ERROR add music, [+] Added more than 1 music can be added, [-] Removed prints."}
