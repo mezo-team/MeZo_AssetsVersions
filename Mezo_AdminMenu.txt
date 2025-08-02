@@ -1,1 +1,5 @@
-{"version":"2.0.2","news":"Fixed problem open menu"}
+{"version":"2.0.2","news":
+"[/] Fixed problem open menu 
+[+] Added report menu **Beta Version**
+[/] Fixed problem prints
+[/] Fixed problem admin chat"}
