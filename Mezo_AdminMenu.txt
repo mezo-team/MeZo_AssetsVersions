@@ -1,1 +1,1 @@
-{"version":"2.0.1","news":"Fixed problem SCRIPT ERROR: bad argument #1 to 'for iterator' (table expected, got nil) "}
+{"version":"2.0.2","news":"Fixed problem open menu"}
