@@ -1,1 +1,1 @@
-{"version":"2.0.2","news":"Fixed problem open menu, Added report menu **Beta Version**, Fixed problem prints, Fixed problem admin chat"}
+{"version":"2.0.3","news":"Fixed problem add admins identifier, Added admins name"}
