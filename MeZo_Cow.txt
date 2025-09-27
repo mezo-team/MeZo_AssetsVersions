@@ -1,1 +1,1 @@
-
+{"version":"1.5.0","news":"[/] Fixed SCRIPT ERROR: ?:-1: attempt to index a nil value, [-] Removed prints"}
